@@ -1,3 +1,3 @@
-config1=ABC
-config2=DEF
-config3=NKS
+config1=123
+config2=234
+config3=475
