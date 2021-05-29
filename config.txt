@@ -1,0 +1,3 @@
+config1=ABC
+config2=DEF
+config3=NKS
